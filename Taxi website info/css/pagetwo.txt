@@ -1,0 +1,13 @@
+h1 {
+border: 5px solid red;
+}
+
+body {
+ background-image: url("Images/stylesheet.css.wave.jpg");
+ background-color: #87CEFA;
+ border: 5px solid #E2725B;
+}
+
+
+
+
